@@ -15,6 +15,7 @@ Implémentations de structures de données en JavaScript et Python :
 
 - **Data Definition Language** — Commandes DDL (CREATE, ALTER) pour créer et modifier des tables CUSTOMER, PRODUCT et ORDERS (`DDL_commands.sql`)
 - **Data Manipulation Language** — Commandes DML (INSERT) pour insérer des données dans les tables CUSTOMER, PRODUCT et ORDERS (`DML_commands.sql`)
+- **Data Query Language** — Requêtes DQL (SELECT, JOIN, GROUP BY, HAVING, sous-requêtes) pour interroger les tables (`DQL_commands.sql`)
 - **Entity–Relationship Model** — Modélisation entité-association
 - **Relational Model** — Modèle relationnel
 
