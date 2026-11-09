@@ -9,7 +9,7 @@ Exercices et projets réalisés dans le cadre de la formation GoMyCode, couvrant
 Implémentations de structures de données en JavaScript et Python :
 
 - **Basic** — Système de gestion de contacts utilisant une liste doublement chaînée, une table de hachage et la recherche de sous-chaînes (`contacts.js`, `contacts.py`)
-- **Advanced** — Implémentation d'un tas (heap) et d'une file de priorité (`heap.js`)
+- **Advanced** — Implémentation d'un tas (heap), d'une file de priorité et d'un graphe avec parcours DFS/BFS (`heap.js`, `graph.js`)
 
 ### Relational Databases
 
